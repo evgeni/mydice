@@ -6,10 +6,12 @@
     <title>my city dice</title>
 </head>
 <body>
-    <span id="d1" style="display: inline-block; width: 4cm; height: 4cm"></span>
-    <span id="d2" style="display: inline-block; width: 4cm; height: 4cm"></span>
-    <span id="d3" style="display: inline-block; width: 4cm; height: 4cm"></span>
-    <div><button id="generate" onClick="generate()">throw!</button></div>
+    <div style="text-align: center">
+        <span id="d1" style="display: inline-block; width: 4cm; height: 4cm"></span>
+        <span id="d2" style="display: inline-block; width: 4cm; height: 4cm"></span>
+        <span id="d3" style="display: inline-block; width: 4cm; height: 4cm"></span>
+    </div>
+    <div style="text-align: center"><button id="generate" onClick="generate()" style="width: 12cm; height: 1cm">throw!</button></div>
     <script type="text/javascript">
         function getD6() {
             return Math.floor(Math.random() * 6);
