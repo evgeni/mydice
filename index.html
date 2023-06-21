@@ -7,9 +7,9 @@
 </head>
 <body>
     <div style="text-align: center">
-        <span id="d1" style="display: inline-block; width: 4cm; height: 4cm"></span>
-        <span id="d2" style="display: inline-block; width: 4cm; height: 4cm"></span>
-        <span id="d3" style="display: inline-block; width: 4cm; height: 4cm"></span>
+        <span id="d1" style="display: inline-block; width: 4cm; height: 4cm; background: url('mycity.svg') no-repeat   0cm 0cm"></span>
+        <span id="d2" style="display: inline-block; width: 4cm; height: 4cm; background: url('mycity.svg') no-repeat  -5cm 0cm"></span>
+        <span id="d3" style="display: inline-block; width: 4cm; height: 4cm; background: url('mycity.svg') no-repeat -10cm 0cm"></span>
     </div>
     <div style="text-align: center"><button id="generate" onClick="generate()" style="width: 12cm; height: 1cm">throw!</button></div>
     <script type="text/javascript">
@@ -21,9 +21,9 @@
             const d1 = document.getElementById("d1");
             const d2 = document.getElementById("d2");
             const d3 = document.getElementById("d3");
-            d1.style.background = 'url("mycity.svg") no-repeat   0cm -'+(getD6()*5)+'cm';
-            d2.style.background = 'url("mycity.svg") no-repeat  -5cm -'+(getD6()*5)+'cm';
-            d3.style.background = 'url("mycity.svg") no-repeat -10cm -'+(getD6()*5)+'cm';
+            d1.style.backgroundPosition = '  0cm -'+(getD6()*5)+'cm';
+            d2.style.backgroundPosition = ' -5cm -'+(getD6()*5)+'cm';
+            d3.style.backgroundPosition = '-10cm -'+(getD6()*5)+'cm';
         };
     </script>
 </body>
