@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="mycity.svg"
    inkscape:export-filename="mycity.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata87">
     <rdf:RDF>
@@ -40,11 +40,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.4665165"
-     inkscape:cx="607.69555"
-     inkscape:cy="412.63279"
+     inkscape:zoom="1.866066"
+     inkscape:cx="580.36533"
+     inkscape:cy="855.8111"
      inkscape:window-width="2560"
-     inkscape:window-height="1381"
+     inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -443,17 +443,6 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.5778px;line-height:125%;font-family:'TeX Gyre Chorus';-inkscape-font-specification:'TeX Gyre Chorus Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="109.84655"
-       y="277.58652"
-       id="text6897"><tspan
-         sodipodi:role="line"
-         id="tspan6895"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583px"
-         x="109.84655"
-         y="277.58652">K</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.5778px;line-height:125%;font-family:'TeX Gyre Chorus';-inkscape-font-specification:'TeX Gyre Chorus Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="10.251375"
        y="78.512436"
        id="text6897-7"><tspan
@@ -522,5 +511,442 @@
        cy="170"
        r="4.4361048"
        transform="scale(-1,1)" />
+    <g
+       id="g838"
+       transform="matrix(0.21562008,0,0,0.21562008,94.697047,211.65183)">
+      <g
+         id="Square"
+         transform="matrix(0.26458333,0,0,0.26458333,57.675002,200.16402)">
+	<path
+   id="outline_2_"
+   fill="#666667"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   d="M 228.288,534.68 453.711,309.257 c 0,0 -4.896,-5.807 -16.729,-6.14 -11.833,-0.333 -26.833,12.001 -36.333,12.167 -9.5,0.166 -26.088,-6.28 -26.088,-6.28 L 228.035,455.528 h -0.324 L 81.186,309.004 c 0,0 -16.588,6.446 -26.088,6.28 -9.5,-0.166 -24.5,-12.5 -36.333,-12.167 -11.833,0.333 -16.729,6.14 -16.729,6.14 L 227.458,534.68 Z" />
+
+	<path
+   fill="#b3b2b2"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   d="m 418.603,314.24 c -6.376,3.059 -12.397,5.947 -17.867,6.043 -7.935,0.139 -19.371,-3.523 -24.9,-5.482 -4.385,4.385 -145.729,145.728 -145.729,145.728 h -4.467 c 0,0 -141.344,-141.343 -145.728,-145.728 -5.529,1.959 -16.966,5.621 -24.901,5.482 -5.469,-0.096 -11.491,-2.984 -17.866,-6.043 -6.426,-3.083 -13.07,-6.271 -18.239,-6.125 -4.029,0.113 -6.965,0.957 -9.065,1.876 8.103,8.103 212.081,212.08 218.033,218.032 5.953,-5.952 209.93,-209.93 218.033,-218.032 -2.1,-0.919 -5.036,-1.763 -9.065,-1.876 -5.17,-0.145 -11.815,3.042 -18.239,6.125 z"
+   id="path86" />
+
+	<g
+   id="left_swirls_and_ticks">
+		<g
+   id="Ticks">
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="45.952"
+   y1="344.92801"
+   x2="53.931"
+   y2="336.94901"
+   id="line88" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="147.952"
+   y1="446.92801"
+   x2="155.931"
+   y2="438.94901"
+   id="line90" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="164.952"
+   y1="463.92801"
+   x2="178.013"
+   y2="450.867"
+   id="line92" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="198.952"
+   y1="497.92801"
+   x2="212.013"
+   y2="484.867"
+   id="line94" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="181.952"
+   y1="480.92801"
+   x2="189.931"
+   y2="472.94901"
+   id="line96" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="215.952"
+   y1="514.92798"
+   x2="223.931"
+   y2="506.94901"
+   id="line98" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="62.952"
+   y1="361.92801"
+   x2="76.013"
+   y2="348.867"
+   id="line100" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="28.952"
+   y1="327.92801"
+   x2="36.931"
+   y2="319.94901"
+   id="line102" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="79.952003"
+   y1="378.92801"
+   x2="87.931"
+   y2="370.94901"
+   id="line104" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="79.952003"
+   y1="378.92801"
+   x2="87.931"
+   y2="370.94901"
+   id="line106" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="96.952003"
+   y1="395.92801"
+   x2="110.013"
+   y2="382.867"
+   id="line108" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="130.952"
+   y1="429.92801"
+   x2="144.013"
+   y2="416.867"
+   id="line110" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="113.952"
+   y1="412.92801"
+   x2="121.931"
+   y2="404.94901"
+   id="line112" />
+
+		</g>
+
+	</g>
+
+	<g
+   id="left_swirls_and_ticks_1_">
+		<g
+   id="Ticks_1_">
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="409.931"
+   y1="344.92801"
+   x2="401.952"
+   y2="336.94901"
+   id="line116" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="307.931"
+   y1="446.92801"
+   x2="299.952"
+   y2="438.94901"
+   id="line118" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="290.931"
+   y1="463.92801"
+   x2="277.87"
+   y2="450.867"
+   id="line120" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="256.931"
+   y1="497.92801"
+   x2="243.87"
+   y2="484.867"
+   id="line122" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="273.931"
+   y1="480.92801"
+   x2="265.952"
+   y2="472.94901"
+   id="line124" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="239.931"
+   y1="514.92798"
+   x2="231.952"
+   y2="506.94901"
+   id="line126" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="392.931"
+   y1="361.92801"
+   x2="379.87"
+   y2="348.867"
+   id="line128" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="426.931"
+   y1="327.92801"
+   x2="418.952"
+   y2="319.94901"
+   id="line130" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="375.931"
+   y1="378.92801"
+   x2="367.952"
+   y2="370.94901"
+   id="line132" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="375.931"
+   y1="378.92801"
+   x2="367.952"
+   y2="370.94901"
+   id="line134" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="358.931"
+   y1="395.92801"
+   x2="345.87"
+   y2="382.867"
+   id="line136" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="324.931"
+   y1="429.92801"
+   x2="311.87"
+   y2="416.867"
+   id="line138" />
+
+			
+				<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   x1="341.931"
+   y1="412.92801"
+   x2="333.952"
+   y2="404.94901"
+   id="line140" />
+
+		</g>
+
+	</g>
+
+</g>
+      <g
+         id="compasses"
+         transform="matrix(0.26458333,0,0,0.26458333,57.675002,200.16402)">
+	<g
+   id="left_compass">
+		<path
+   fill="#b3b2b2"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   d="M 10.974,520.441 196.629,39.19 248.83,59.296 191.351,207.751 c 0,0 -16.087,5.699 -27.42,13.032 -11.333,7.333 -22,18.667 -22,18.667 z"
+   id="path145" />
+
+		<path
+   fill="#8c8c8c"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   d="m 130.55,235.165 70.566,-182.51 35.496,13.672 -52.432,132.457 c 0,0 -18,5 -28,11.5 -10,6.5 -25.63,24.881 -25.63,24.881 z"
+   id="path147" />
+
+	</g>
+
+	<g
+   id="right_compass">
+		<path
+   fill="#b3b2b2"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   d="M 444.83,520.441 259.176,39.19 206.975,59.296 264.454,207.751 c 0,0 16.087,5.699 27.42,13.032 11.333,7.333 22,18.667 22,18.667 z"
+   id="path150" />
+
+		<path
+   fill="#8c8c8c"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   d="m 325.255,235.165 -70.566,-182.51 -35.496,13.672 52.432,132.457 c 0,0 18,5 28,11.5 10,6.5 25.63,24.881 25.63,24.881 z"
+   id="path152" />
+
+	</g>
+
+</g>
+      <g
+         id="knob"
+         transform="matrix(0.26458333,0,0,0.26458333,57.675002,200.16402)">
+	<circle
+   id="outer_circle"
+   fill="#8c8c8c"
+   stroke="#000000"
+   stroke-width="4"
+   cx="227.931"
+   cy="39.117001"
+   r="37.117001" />
+
+	
+		<circle
+   id="outer_circle_2_"
+   fill="#b3b2b2"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   cx="227.931"
+   cy="39.117001"
+   r="27.837999" />
+
+	
+		<circle
+   id="outer_circle_3_"
+   fill="#8c8c8c"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   cx="227.931"
+   cy="39.117001"
+   r="13.919" />
+
+</g>
+    </g>
   </g>
 </svg>
